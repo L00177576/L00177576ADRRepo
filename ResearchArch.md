@@ -17,3 +17,6 @@ Current process has 2 stage approval in which second ateg can only start after t
 ## Consequences
 
 This would avoid the delays in approvals and could help spped up the process. 
+
+
+> This is built using the template https://github.com/joelparkerhenderson/architecture-decision-record/blob/main/templates/decision-record-template-by-michael-nygard/index.md
